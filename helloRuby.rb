@@ -27,20 +27,6 @@ def is_palindrome()
   #TODO
 end
 
-# Uses send() 
-# def perform_operation(method_name, text)
-#   send(method_name, text)
-# end
-# 
-# puts perform_operation(:capitalize_text, "hello world")
-
-#def perform_operation(func, text)
-#  func.call(text)
-#end
-
-puts perform_operation(lambda { |text| text.upcase }, "hello world")
-
-
 # Main program
 puts perform_operation(method(:capitalize_text), "hello world")
 puts perform_operation(method(:reverse_text), "1234")
