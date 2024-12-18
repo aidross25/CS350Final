@@ -3,7 +3,6 @@
 ## Title: Parameters that are Subprograms - Ruby vs Rust
 
 ## ONLINE COMPILER LINKS
-
 https://onecompiler.com/ruby/
 https://onecompiler.com/rust/
 
