@@ -17,8 +17,6 @@ def remove_spaces(text)
 end
 
 def perform_operation(func, text = "somethings")
-  # 'func.call(text)' invokes the method passed as 'func' by calling it with 'text'.
-  # This treats the function as a first-class object, allowing dynamic execution.
   result = func.call(text)
   result
 end
