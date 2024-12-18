@@ -1,7 +1,7 @@
 # CS350Final Project Overview
 
 ## Title: Parameters that are Subprograms - Ruby vs Rust
-Unfortunately, due to the simplistic nature of the Scratch programming language, our topic was too complex to be adequately portray the design of passing Parameters that are Subprograms
+Unfortunately, because of the simplistic nature of the Scratch programming language, our topic is too complex to adequately portray the design characteristics of passing parameters that are subprograms. It can be achieved in Scratch, but for the purposes of academics, we decided to compare two programming languages commonly used by adults.
 
 ## ONLINE COMPILER LINKS
 - https://onecompiler.com/ruby/
