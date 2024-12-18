@@ -3,8 +3,8 @@
 ## Title: Parameters that are Subprograms - Ruby vs Rust
 
 ## ONLINE COMPILER LINKS
-https://onecompiler.com/ruby/
-https://onecompiler.com/rust/
+- https://onecompiler.com/ruby/
+- https://onecompiler.com/rust/
 
 ### Objective
 The objective of this project is to compare how Ruby and Rust handle the concept of passing subprograms as parameters, focusing on syntax, implementation, and functionality.
