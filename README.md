@@ -5,7 +5,6 @@
 - https://onecompiler.com/rust/
 
 ## Title: Parameters that are Subprograms - Ruby vs Rust
-Unfortunately, because of the simplistic nature of the Scratch programming language, our topic is too complex to adequately portray the design characteristics of passing parameters that are subprograms. It can be achieved in Scratch, but for the purposes of academics, we decided to compare two programming languages commonly used by adults.
 
 ### Objective
 The objective of this project is to compare how Ruby and Rust handle the concept of passing subprograms as parameters, focusing on syntax, implementation, and functionality.
@@ -20,6 +19,7 @@ The objective of this project is to compare how Ruby and Rust handle the concept
   - A presentation summarizing findings.
 
 ### Why Ruby and Rust?
+Unfortunately, because of the simplistic nature of the Scratch programming language, our topic is too complex to adequately portray the design characteristics of passing parameters that are subprograms. It can be achieved in Scratch, but for the purposes of academics, we decided to compare two programming languages commonly used by adults.
 - **Ruby:** A dynamic, object-oriented scripting language known for ease of use and flexibility.
 - **Rust:** A systems programming language focused on safety, speed, and memory management.
 
